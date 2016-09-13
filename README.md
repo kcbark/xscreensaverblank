@@ -1,4 +1,4 @@
-xscreensaverblank.pl
+# xscreensaverblank.pl
 
 The xscreensaverblank.pl perl script will watch when xscreensaver sends BLANK 
 and send signal -STOP to processes making battery drainage minimal when in 
